@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+	<head>
+		<title>
+		info_minecraft
+		</title>
+		<meta charset="utf-"/>
+	</head>
+	<body>
+		<h1> Les craft MineCraft </h1>
+		<h2> Les pioche... </h2>
+		<h3> ...en bois </h3>
+		<p> Pour faire une pioche en bois il faut tout d'abord réunnir </p>
+		<p> 3 planches de bois et deux batons. </p>
+		<p> Placer ensuite les deux batons sur la collonne du milieu,  </p>
+		<p> ligne du bas et ligne du milieu. </p>
+		<p> Ensuite, placer les 3 planches sur la ligne du haut. </p>
+		<p> Bravo vous avez fais votre premiere pioche en bois. (voir image)</p>
+		<img src="craft_pioche_en_bois.jpg">
+	</body>
+</html>
